@@ -16,15 +16,12 @@ Work through each resource carefully and use them alongside the guidance provide
 
 You should return to these resources regularly during your preparation, particularly before completing your:
 
-- Project
 - Scenario demonstration
-- Presentation
 - Professional discussion
-- Interview
 
 ## What the Resources Include
 
-The resources may include:
+The resources will eventually include:
 
 - Guidance on the EPA process
 - Information about each assessment method
