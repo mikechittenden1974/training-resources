@@ -1,0 +1,23 @@
+CustomerID,CustomerType,Region,Gender,Age
+C001,Online,London,F,26
+C002,Store,North West,M,41
+C003,Online,South East,F,35
+C004,Store,Midlands,M,29
+C005,Online,Scotland,F,52
+C006,Store,London,M,24
+C007,Online,North East,F,33
+C008,Store,South West,M,46
+C009,Online,Midlands,F,31
+C010,Store,Scotland,M,27
+C011,Online,Wales,F,38
+C012,Store,Yorkshire,M,45
+C013,Online,Northern Ireland,F,22
+C014,Store,East of England,M,36
+C015,Online,South East,F,28
+C016,Store,London,M,34
+C017,Online,North West,F,30
+C018,Store,Wales,M,39
+C019,Online,South West,F,47
+C020,Store,Yorkshire,M,25
+C004,Store,Midlands,M,29
+C009,Online,Midlands,F,31

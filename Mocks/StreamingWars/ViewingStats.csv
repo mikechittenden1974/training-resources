@@ -1,0 +1,21 @@
+UserID,Platform,HoursWatched,SatisfactionScore,SubscriptionCost (£)
+1001,Netflix,18,8,10.99
+1002,Disney+,22,6,7.99
+1003,Prime Video,31,7,7.99
+1004,Netflix,21,8,7.99
+1005,Prime Video,28,5,8.99
+1006,Netflix,21,6,10.99
+1007,Prime Video,34,10,7.99
+1008,Disney+,11,10,8.99
+1009,Netflix,29,8,10.99
+1010,Netflix,16,10,8.99
+1011,Prime Video,31,7,8.99
+1012,Netflix,28,8,8.99
+1013,Netflix,12,8,8.99
+1014,Prime Video,30,9,8.99
+1015,Netflix,32,9,10.99
+1016,Disney+,30,10,8.99
+1017,Prime Video,34,9,8.99
+1018,Disney+,17,5,7.99
+1019,Netflix,31,8,8.99
+1020,Netflix,23,8,7.99

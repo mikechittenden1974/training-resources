@@ -1,0 +1,21 @@
+UserID,Name,Gender,AgeGroup,Country,PreferredPlatform
+1001,Mia,Female,36–45,US,Disney+
+1002,Jack,Female,26–35,US,Disney+
+1003,Priya,Male,18–25,UK,Disney+
+1004,Sam,Female,46–55,UK,Disney+
+1005,Aisha,Female,36–45,UK,Disney+
+1006,Luke,Male,36–45,US,Netflix
+1007,Sara,Female,26–35,US,Netflix
+1008,Tom,Female,46–55,US,Disney+
+1009,Emma,Female,26–35,US,Netflix
+1010,Ben,Female,46–55,US,Prime Video
+1011,Liam,Female,18–25,US,Prime Video
+1012,Noah,Male,26–35,UK,Netflix
+1013,Olivia,Female,46–55,UK,Disney+
+1014,Sophia,Female,36–45,UK,Disney+
+1015,Isla,Female,36–45,UK,Netflix
+1016,Ethan,Female,18–25,US,Netflix
+1017,Grace,Male,46–55,UK,Disney+
+1018,Leo,Female,46–55,UK,Netflix
+1019,Hannah,Female,26–35,UK,Netflix
+1020,James,Female,18–25,UK,Netflix

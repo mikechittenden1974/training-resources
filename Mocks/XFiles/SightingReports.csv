@@ -1,0 +1,23 @@
+SightingID,AgentID,Date,Location,DurationMins,CredibilityScore,EvidenceType,Notes
+S001,A001,01/01/24 ,london ,60,85,photo ,light spotted near Tower
+S002,A002,05-01-2024,Durham,90,92,Video,triangular object
+S003,A004,7/01/24,LIVERPOOL,40,75,audio,buzzing noise
+S004,A005,09/01/24 ,London,120,88,Photo, blinding Flash
+S005,A003,10/01/24 ,Birmingham,55,65,EyeWitness,two locals saw object
+S006,A006,12/01/24,Bristol,180,96,video, multiple lights
+S007,A007,14/01/24,Cardiff,30,55,None, faint object seen
+S008,A008,16/01/24 ,Cambridge,50,82,Photo ,reflection suspected
+S009,A009,18/01/2024,EDINBURGH,160,99,Video,clear saucer on camera
+S010,A010,20/01/24,Belfast,25,40,none,Incomplete data
+S011,A012,21/01/24 ,Kent,,77,Photo, cloudy
+S012,A011,22/01/24 ,Newcastle,65,83,Video,
+S013,A013,23/01/24,Leicester,95,91,Audio,low hum recorded
+S014,A014,25/01/24 , london ,180,97,Video, best footage yet
+S015,A015,26/01/24 ,Manchester,75,80,EyeWitness,credible
+S016,A016,27/01/24,Exeter,140,86,Video,two camera angles
+S017,A017,28/01/24 ,Swansea,60,68,Photo,hazy image
+S018,A018,29/01/24 ,Aberdeen,200,94,Video,bright disk
+S019,A019,30/01/24,Norwich,50,79,None,
+S020,A020,31/01/24 ,BELFAST,15,58,EyeWitness,
+S020,A020,31/01/24 ,BELFAST,15,58,EyeWitness,
+S021,A099,01/02/24,Unknown,120,100,Photo,invalid AgentID
